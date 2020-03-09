@@ -9,21 +9,23 @@ body
 	text-align: center;
 	width: 100%;
     	padding: 5px 0px;
-	margin: 40px auto 0px;    	
+	margin: 40px auto 0px;
+	max-width: 400px;
 }
 .loginbox
 {
 	width: 20em;
 	height: 34em;
+	margin: auto;
 	background: #defb;
 	color: #ff88;
 	box-sizing: border-box;
-	margin: auto;
+	
 }
 .loginpage-wrap
 {
 	padding: 20px 7px;
-	margin: 20px 10px 20px 10px;
+	margin: 20px 50px 20px 50px;
 }
 .avatar
 {
