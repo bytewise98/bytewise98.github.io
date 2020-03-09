@@ -2,7 +2,6 @@ body
 {
 	background-color: grey;
 	background-size:cover;
-	width:50em;
 }
 .loginbox
 {
@@ -13,6 +12,12 @@ body
 	box-sizing: border-box;
 	margin: auto;
 	position: relative;
+}
+.loginpage-wrap
+{
+	margin: 20px 15%;
+	text-align: left;
+	padding: 20px 20px;
 }
 .avatar
 {
@@ -65,9 +70,4 @@ body
     margin: 6% auto;
     text-align: center;
 }
-.loginpage-wrap
-{
-	margin: 20px 10%;
-	text-align: left;
-	padding: 20px 20px;
-}
+
