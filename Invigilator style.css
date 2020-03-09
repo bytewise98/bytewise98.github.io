@@ -14,8 +14,16 @@ body
 }
 .loginpage-wrap
 {
-	margin: 20px 15%;
 	padding: 20px 20px;
+	margin: 20px 15%;
+}
+.content-center
+{
+	width: 100%;
+    	padding: 5px 0px;
+    	max-width: 500px;
+    	margin:0px auto 0px;
+    	text-align: center;
 }
 .avatar
 {
@@ -60,12 +68,3 @@ body
 	color: #fff;
 	font-size: 1.44em;
 }
-.content-center
-{
-	width: 100%;
-    	padding: 5px 0px;
-    	max-width: 500px;
-    	margin:0px auto 0px;
-    	text-align: center;
-}
-
