@@ -13,7 +13,8 @@ body
 	max-width: 400px;
 }
 .loginbox
-{
+{	
+	width: 21em;
 	height: 34em;
 	margin: auto;
 	background: #defb;
@@ -23,8 +24,9 @@ body
 }
 .loginpage-wrap
 {
+	max-width: 200px;
 	padding: 20px 7px;
-	margin: 20px 50px 20px 50px;
+	margin: 20px 50px 0px 50px;
 }
 .avatar
 {
