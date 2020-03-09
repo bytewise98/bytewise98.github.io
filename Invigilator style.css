@@ -14,7 +14,7 @@ body
 .loginbox
 {
 	width: 20em;
-	height: 30em;
+	height: 34em;
 	background: #defb;
 	color: #ff88;
 	box-sizing: border-box;
@@ -23,7 +23,8 @@ body
 .loginpage-wrap
 {
 	padding: 20px 7px;
-	margin: 20px 10px 0px;
+	text-align: left;
+	margin: 20px 10px 20px;
 }
 .avatar
 {
