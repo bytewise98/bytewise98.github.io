@@ -21,7 +21,6 @@ body
 	background: #defb;
 	color: #ff88;
 	box-sizing: border-box;
-	transform: translateX(-10%);
 }
 .loginpage-wrap
 {
