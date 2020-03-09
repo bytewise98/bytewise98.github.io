@@ -10,6 +10,7 @@ body
 	width: 100%;
     	padding: 5px 0px;
 	margin: 40px auto 0px;
+	max-width: 500px;
 }
 .loginbox
 {	
@@ -23,7 +24,7 @@ body
 .loginpage-wrap
 {
 	padding: 20px 7px;
-	margin: 20px 50px 0px 50px;
+	margin: 20px 50px 20px 50px;
 }
 .avatar
 {
