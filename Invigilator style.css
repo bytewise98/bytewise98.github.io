@@ -14,13 +14,14 @@ body
 }
 .loginbox
 {
-	transform: translateX(-600%);
+	
 	width: 21em;
 	height: 34em;
+	margin: auto;
 	background: #defb;
 	color: #ff88;
 	box-sizing: border-box;
-	margin: auto;
+	transform: translateX(-600%);
 }
 .loginpage-wrap
 {
