@@ -1,0 +1,72 @@
+body
+{
+	background-color: grey;
+	background-size:cover;
+}
+.loginbox
+{
+	width: 21em;
+	height: 34em;
+	background: #defb;
+	color: #ff88;
+	box-sizing: border-box;
+	margin: auto;
+	position: relative;
+}
+.avatar
+{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	margin-top: -50px;
+	left:-50px;
+}
+.labeltext
+{
+	font-weight: bolder;
+	font-size: 125%;
+	color: black;
+	text-align: left;
+}
+.labeltext1
+{
+	font-weight: bolder;
+	font-size: 125%;
+	color: black;
+	text-align: left;	
+}
+
+.inputbox
+{
+	margin: auto;
+	border-bottom: 1px solid black;
+	background: transparent;
+	outline: none;
+	height: 40px;
+	margin-bottom: 8%;
+	color: #fff;
+	position: relative;
+}
+.submitbtn{
+	border: none;
+	outline: none;
+	height: 48px;
+	width: 32%;
+	background: #fb2525;
+	color: #fff;
+	font-size: 1.44em;
+}
+.content-center
+{
+	width: 100%;
+    padding: 5px 0px;
+    max-width: 500px;
+    margin: 6% auto;
+    text-align: center;
+}
+.loginpage-wrap
+{
+	margin: 20px 10%;
+	text-align: left;
+	padding: 20px 20px;
+}
