@@ -3,21 +3,6 @@ body
 	background-color: grey;
 	background-size:cover;
 }
-.loginbox
-{
-	width: 21em;
-	height: 34em;
-	background: #defb;
-	color: #ff88;
-	box-sizing: border-box;
-	margin: auto;
-	transform: translateX(-10%);
-}
-.loginpage-wrap
-{
-	padding: 20px 7px;
-	margin: 20px 15%;
-}
 .content-center
 {
 	margin: 40px auto 0px;
@@ -26,6 +11,20 @@ body
     	padding: 5px 0px;
     	max-width: 500px;
     	
+}
+.loginbox
+{
+	width: 21em;
+	height: 34em;
+	background: #defb;
+	color: #ff88;
+	box-sizing: border-box;
+	margin: auto;
+}
+.loginpage-wrap
+{
+	padding: 20px 7px;
+	margin: 20px 15%;
 }
 .avatar
 {
