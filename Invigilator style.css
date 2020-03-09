@@ -11,6 +11,7 @@ body
 	color: #ff88;
 	box-sizing: border-box;
 	margin: auto;
+	transform: translateX(-10%);
 }
 .loginpage-wrap
 {
