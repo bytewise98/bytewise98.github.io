@@ -24,7 +24,7 @@ body
 .loginpage-wrap
 {
 	padding: 20px 7px;
-	margin: 20px 15% 20px 1%;
+	margin: 20px auto 20px auto;
 }
 .avatar
 {
