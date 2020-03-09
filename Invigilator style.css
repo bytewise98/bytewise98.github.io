@@ -15,12 +15,11 @@ body
 }
 .loginbox
 {
-	
-	width: 21em;
 	height: 34em;
 	background: #defb;
 	color: #ff88;
 	box-sizing: border-box;
+	margin: auto;
 }
 .loginpage-wrap
 {
