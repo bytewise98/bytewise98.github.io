@@ -6,7 +6,7 @@ body
 .content-center
 {
 	margin: 40px auto 0px;
-	text-align: center;
+	float: left;
 	width: 100%;
     	padding: 5px 0px;
     	max-width: 500px;
@@ -24,7 +24,7 @@ body
 .loginpage-wrap
 {
 	padding: 20px 7px;
-	margin: 20px auto 20px auto;
+	margin: 20px 50px 20px 50px;
 }
 .avatar
 {
