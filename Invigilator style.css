@@ -14,7 +14,7 @@ body
 }
 .loginbox
 {
-	tranform: translateX(-6000%);
+	transform: translateX(-600%);
 	width: 21em;
 	height: 34em;
 	background: #defb;
